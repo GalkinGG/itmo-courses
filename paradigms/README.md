@@ -30,7 +30,8 @@
 [Текст задания](https://www.kgeorgiy.info//courses/paradigms/homeworks.html#js-object-expressions)   
 [Решение](/paradigms/javascript-solutions/objectExpression.js)
 ### Домашнее задание 8. Обработка ошибок на JavaScript
-Добавление в предыдущее домашнее задание функции parsePrefix(string), разбирающей выражения, задаваемые записью вида «(- (* 2 x) 3)». Если разбираемое выражение некорректно, метод parsePrefix бросает ошибки с человеко-читаемыми сообщениями.  
+Добавление в предыдущее домашнее задание функции parsePrefix(string), разбирающей выражения, 
+задаваемые записью вида «(- (* 2 x) 3)». Если разбираемое выражение некорректно, метод parsePrefix бросает ошибки с человеко-читаемыми сообщениями.  
 [Текст задания](https://www.kgeorgiy.info//courses/paradigms/homeworks.html#js-expression-parsing)   
 [Решение](/paradigms/javascript-solutions/objectExpression.js)
 ## Clojure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" title="clojure" alt="clojure" width="50" height="50"/>
