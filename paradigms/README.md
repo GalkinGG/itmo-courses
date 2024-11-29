@@ -22,7 +22,7 @@
 [Решение](/paradigms/java-solutions/expression/)
 ## JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" alt="js" width="50" height="50" />
 ### Домашнее задание 6. Функциональные выражения на JavaScript
-Реализацмя функций cnst, variable, add, subtract, multiply, divide, negate для вычисления выражений с тремя переменными: x, y и z.  
+Реализация функций cnst, variable, add, subtract, multiply, divide, negate для вычисления выражений с тремя переменными: x, y и z.  
 [Текст задания](https://www.kgeorgiy.info//courses/paradigms/homeworks.html#js-functional-expressions)   
 [Решение](/paradigms/javascript-solutions/functionalExpression.js)
 ### Домашнее задание 7. Объектные выражения на JavaScript
