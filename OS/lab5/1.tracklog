@@ -1,0 +1,1120 @@
+30.12.2023 12:26:06
+MiB Mem :  12608.5 total,  12331.2 free,    216.2 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.1 free,    142.9 used.  12214.2 avail Mem 
+4566 galking 20 0 26440 21016 3116 R 93.3 0.2 0:00.14 mem.bash
+ 4566 galking   20   0   26440  21016   3116 R  93.3   0.2   0:00.14 mem.bash
+   24 galking   20   0  955288  32516  14560 S   6.7   0.3   0:06.33 node
+   46 galking   20   0  598052  17352  12460 S   6.7   0.1   0:02.25 node
+   96 galking   20   0  973660  37184  15488 S   6.7   0.3   0:09.43 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+
+30.12.2023 12:26:07
+MiB Mem :  12608.5 total,  12172.6 free,    374.9 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.1 free,    142.9 used.  12055.5 avail Mem 
+4566 galking 20 0 188140 182848 3116 R 93.8 1.4 0:01.45 mem.bash
+ 4566 galking   20   0  188140 182848   3116 R  93.8   1.4   0:01.45 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:08
+MiB Mem :  12608.5 total,  12014.8 free,    532.7 used,     61.1 buff/cache
+MiB Swap:   4096.0 total,   3953.1 free,    142.9 used.  11897.7 avail Mem 
+4566 galking 20 0 350368 344944 3116 R 100.0 2.7 0:02.76 mem.bash
+ 4566 galking   20   0  350368 344944   3116 R 100.0   2.7   0:02.76 mem.bash
+   24 galking   20   0  955288  32776  14560 S   6.7   0.3   0:06.34 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:26:10
+MiB Mem :  12608.5 total,  11858.2 free,    689.2 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.1 free,    142.9 used.  11741.2 avail Mem 
+4566 galking 20 0 510616 505192 3116 R 100.0 3.9 0:04.08 mem.bash
+ 4566 galking   20   0  510616 505192   3116 R 100.0   3.9   0:04.08 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:11
+MiB Mem :  12608.5 total,  11703.5 free,    844.0 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.1 free,    142.9 used.  11586.4 avail Mem 
+4566 galking 20 0 669412 664120 3116 R 100.0 5.1 0:05.39 mem.bash
+ 4566 galking   20   0  669412 664120   3116 R 100.0   5.1   0:05.39 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:12
+MiB Mem :  12608.5 total,  11545.5 free,   1002.0 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.1 free,    142.9 used.  11428.4 avail Mem 
+4566 galking 20 0 831244 825688 3116 R 100.0 6.4 0:06.70 mem.bash
+ 4566 galking   20   0  831244 825688   3116 R 100.0   6.4   0:06.70 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:14
+MiB Mem :  12608.5 total,  11387.0 free,   1160.5 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.1 free,    142.9 used.  11270.0 avail Mem 
+4566 galking 20 0 992812 987256 3116 R 100.0 7.6 0:08.02 mem.bash
+ 4566 galking   20   0  992812 987256   3116 R 100.0   7.6   0:08.02 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:15
+MiB Mem :  12608.5 total,  11229.5 free,   1318.0 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.1 free,    142.9 used.  11112.5 avail Mem 
+4566 galking 20 0 1153984 1.1g 3116 R 100.0 8.9 0:09.33 mem.bash
+ 4566 galking   20   0 1153984   1.1g   3116 R 100.0   8.9   0:09.33 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:16
+MiB Mem :  12608.5 total,  11072.5 free,   1475.0 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.6 free,    142.4 used.  10955.5 avail Mem 
+4566 galking 20 0 1314892 1.2g 3116 R 100.0 10.1 0:10.65 mem.bash
+ 4566 galking   20   0 1314892   1.2g   3116 R 100.0  10.1   0:10.65 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:18
+MiB Mem :  12608.5 total,  10914.6 free,   1633.0 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.8 free,    142.2 used.  10797.5 avail Mem 
+4566 galking 20 0 1476856 1.4g 3116 R 100.0 11.4 0:11.96 mem.bash
+ 4566 galking   20   0 1476856   1.4g   3116 R 100.0  11.4   0:11.96 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:19
+MiB Mem :  12608.5 total,  10756.8 free,   1790.7 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.8 free,    142.2 used.  10639.8 avail Mem 
+4566 galking 20 0 1637104 1.6g 3116 R 100.0 12.6 0:13.27 mem.bash
+ 4566 galking   20   0 1637104   1.6g   3116 R 100.0  12.6   0:13.27 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:20
+MiB Mem :  12608.5 total,  10598.1 free,   1949.4 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3953.8 free,    142.2 used.  10481.1 avail Mem 
+4566 galking 20 0 1798804 1.7g 3116 R 100.0 13.9 0:14.58 mem.bash
+ 4566 galking   20   0 1798804   1.7g   3116 R 100.0  13.9   0:14.58 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:22
+MiB Mem :  12608.5 total,  10439.4 free,   2108.2 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3953.8 free,    142.2 used.  10322.3 avail Mem 
+4566 galking 20 0 1960504 1.9g 3116 R 100.0 15.1 0:15.90 mem.bash
+ 4566 galking   20   0 1960504   1.9g   3116 R 100.0  15.1   0:15.90 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:23
+MiB Mem :  12608.5 total,  10282.1 free,   2265.4 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3953.8 free,    142.2 used.  10165.1 avail Mem 
+4566 galking 20 0 2121808 2.0g 3116 R 100.0 16.4 0:17.21 mem.bash
+ 4566 galking   20   0 2121808   2.0g   3116 R 100.0  16.4   0:17.21 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:24
+MiB Mem :  12608.5 total,  10123.9 free,   2423.7 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.8 free,    142.2 used.  10006.8 avail Mem 
+4566 galking 20 0 2283112 2.2g 3116 R 93.8 17.6 0:18.53 mem.bash
+ 4566 galking   20   0 2283112   2.2g   3116 R  93.8  17.6   0:18.53 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:25
+MiB Mem :  12608.5 total,   9966.1 free,   2581.4 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3953.8 free,    142.2 used.   9849.1 avail Mem 
+4566 galking 20 0 2443888 2.3g 3116 R 100.0 18.9 0:19.84 mem.bash
+ 4566 galking   20   0 2443888   2.3g   3116 R 100.0  18.9   0:19.84 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:27
+MiB Mem :  12608.5 total,   9807.4 free,   2740.1 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3954.1 free,    141.9 used.   9690.4 avail Mem 
+4566 galking 20 0 2605060 2.5g 3116 R 100.0 20.1 0:21.16 mem.bash
+ 4566 galking   20   0 2605060   2.5g   3116 R 100.0  20.1   0:21.16 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:28
+MiB Mem :  12608.5 total,   9648.9 free,   2898.6 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3954.1 free,    141.9 used.   9531.9 avail Mem 
+4566 galking 20 0 2766760 2.6g 3116 R 100.0 21.4 0:22.47 mem.bash
+ 4566 galking   20   0 2766760   2.6g   3116 R 100.0  21.4   0:22.47 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:29
+MiB Mem :  12608.5 total,   9490.4 free,   3057.1 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3954.1 free,    141.9 used.   9373.4 avail Mem 
+4566 galking 20 0 2928592 2.8g 3116 R 100.0 22.6 0:23.79 mem.bash
+ 4566 galking   20   0 2928592   2.8g   3116 R 100.0  22.6   0:23.79 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:31
+MiB Mem :  12608.5 total,   9332.0 free,   3215.5 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3954.1 free,    141.9 used.   9214.9 avail Mem 
+4566 galking 20 0 3090820 2.9g 3116 R 100.0 23.9 0:25.10 mem.bash
+ 4566 galking   20   0 3090820   2.9g   3116 R 100.0  23.9   0:25.10 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:32
+MiB Mem :  12608.5 total,   9174.5 free,   3373.1 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3954.1 free,    141.9 used.   9057.4 avail Mem 
+4566 galking 20 0 3251596 3.1g 3116 R 100.0 25.1 0:26.41 mem.bash
+ 4566 galking   20   0 3251596   3.1g   3116 R 100.0  25.1   0:26.41 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:33
+MiB Mem :  12608.5 total,   9017.5 free,   3530.0 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3954.1 free,    141.9 used.   8900.4 avail Mem 
+4566 galking 20 0 3411712 3.2g 3116 R 100.0 26.4 0:27.73 mem.bash
+ 4566 galking   20   0 3411712   3.2g   3116 R 100.0  26.4   0:27.73 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:35
+MiB Mem :  12608.5 total,   8864.0 free,   3683.6 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3954.1 free,    141.9 used.   8746.9 avail Mem 
+4566 galking 20 0 3568924 3.4g 3116 R 100.0 27.6 0:29.04 mem.bash
+ 4566 galking   20   0 3568924   3.4g   3116 R 100.0  27.6   0:29.04 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:36
+MiB Mem :  12608.5 total,   8709.2 free,   3838.4 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3954.3 free,    141.7 used.   8592.1 avail Mem 
+4566 galking 20 0 3727456 3.5g 3116 R 93.8 28.8 0:30.36 mem.bash
+ 4566 galking   20   0 3727456   3.5g   3116 R  93.8  28.8   0:30.36 mem.bash
+   96 galking   20   0  973660  37876  15548 S   6.2   0.3   0:09.61 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:26:37
+MiB Mem :  12608.5 total,   8552.4 free,   3995.2 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   8435.3 avail Mem 
+4566 galking 20 0 3887176 3.7g 3116 R 100.0 30.1 0:31.67 mem.bash
+ 4566 galking   20   0 3887176   3.7g   3116 R 100.0  30.1   0:31.67 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:39
+MiB Mem :  12608.5 total,   8400.5 free,   4147.0 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   8283.5 avail Mem 
+4566 galking 20 0 4042144 3.8g 3116 R 100.0 31.3 0:33.00 mem.bash
+ 4566 galking   20   0 4042144   3.8g   3116 R 100.0  31.3   0:33.00 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:40
+MiB Mem :  12608.5 total,   8244.0 free,   4303.5 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   8127.0 avail Mem 
+4566 galking 20 0 4202260 4.0g 3116 R 100.0 32.5 0:34.31 mem.bash
+ 4566 galking   20   0 4202260   4.0g   3116 R 100.0  32.5   0:34.31 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:41
+MiB Mem :  12608.5 total,   8088.3 free,   4459.3 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   7971.2 avail Mem 
+4566 galking 20 0 4361848 4.2g 3116 R 100.0 33.7 0:35.63 mem.bash
+ 4566 galking   20   0 4361848   4.2g   3116 R 100.0  33.7   0:35.63 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:43
+MiB Mem :  12608.5 total,   7933.3 free,   4614.3 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   7816.2 avail Mem 
+4566 galking 20 0 4520512 4.3g 3116 R 100.0 35.0 0:36.94 mem.bash
+ 4566 galking   20   0 4520512   4.3g   3116 R 100.0  35.0   0:36.94 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:44
+MiB Mem :  12608.5 total,   7775.7 free,   4771.8 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   7658.7 avail Mem 
+4566 galking 20 0 4680496 4.5g 3116 R 100.0 36.2 0:38.25 mem.bash
+ 4566 galking   20   0 4680496   4.5g   3116 R 100.0  36.2   0:38.25 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:45
+MiB Mem :  12608.5 total,   7618.5 free,   4929.1 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   7501.4 avail Mem 
+4566 galking 20 0 4839688 4.6g 3116 R 93.8 37.4 0:39.57 mem.bash
+ 4566 galking   20   0 4839688   4.6g   3116 R  93.8  37.4   0:39.57 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:47
+MiB Mem :  12608.5 total,   7462.9 free,   5084.7 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   7345.8 avail Mem 
+4566 galking 20 0 4999276 4.8g 3116 R 100.0 38.7 0:40.88 mem.bash
+ 4566 galking   20   0 4999276   4.8g   3116 R 100.0  38.7   0:40.88 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:48
+MiB Mem :  12608.5 total,   7305.4 free,   5242.2 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   7188.3 avail Mem 
+4566 galking 20 0 5159788 4.9g 3116 R 100.0 39.9 0:42.20 mem.bash
+ 4566 galking   20   0 5159788   4.9g   3116 R 100.0  39.9   0:42.20 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:49
+MiB Mem :  12608.5 total,   7147.6 free,   5400.0 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   7030.6 avail Mem 
+4566 galking 20 0 5320432 5.1g 3116 R 100.0 41.2 0:43.51 mem.bash
+ 4566 galking   20   0 5320432   5.1g   3116 R 100.0  41.2   0:43.51 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:50
+MiB Mem :  12608.5 total,   6991.9 free,   5555.6 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   6874.9 avail Mem 
+4566 galking 20 0 5480284 5.2g 3116 R 100.0 42.4 0:44.82 mem.bash
+ 4566 galking   20   0 5480284   5.2g   3116 R 100.0  42.4   0:44.82 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:52
+MiB Mem :  12608.5 total,   6834.9 free,   5712.6 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   6717.9 avail Mem 
+4566 galking 20 0 5640268 5.4g 3116 R 100.0 43.6 0:46.14 mem.bash
+ 4566 galking   20   0 5640268   5.4g   3116 R 100.0  43.6   0:46.14 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:53
+MiB Mem :  12608.5 total,   6679.2 free,   5868.4 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.1 free,    140.9 used.   6562.1 avail Mem 
+4566 galking 20 0 5799460 5.5g 3116 R 100.0 44.9 0:47.45 mem.bash
+ 4566 galking   20   0 5799460   5.5g   3116 R 100.0  44.9   0:47.45 mem.bash
+   96 galking   20   0  973660  38480  15548 S   6.7   0.3   0:09.68 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:26:54
+MiB Mem :  12608.5 total,   6521.9 free,   6025.6 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   6404.8 avail Mem 
+4566 galking 20 0 5959840 5.7g 3116 R 100.0 46.1 0:48.77 mem.bash
+ 4566 galking   20   0 5959840   5.7g   3116 R 100.0  46.1   0:48.77 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:56
+MiB Mem :  12608.5 total,   6365.4 free,   6182.2 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   6248.3 avail Mem 
+4566 galking 20 0 6120220 5.8g 3116 R 100.0 47.4 0:50.08 mem.bash
+ 4566 galking   20   0 6120220   5.8g   3116 R 100.0  47.4   0:50.08 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:57
+MiB Mem :  12608.5 total,   6210.8 free,   6336.7 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   6093.8 avail Mem 
+4566 galking 20 0 6278092 6.0g 3116 R 100.0 48.6 0:51.39 mem.bash
+ 4566 galking   20   0 6278092   6.0g   3116 R 100.0  48.6   0:51.39 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:26:58
+MiB Mem :  12608.5 total,   6054.8 free,   6492.8 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   5937.7 avail Mem 
+4566 galking 20 0 6437152 6.1g 3116 R 100.0 49.8 0:52.71 mem.bash
+ 4566 galking   20   0 6437152   6.1g   3116 R 100.0  49.8   0:52.71 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:00
+MiB Mem :  12608.5 total,   5899.0 free,   6648.5 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   5782.0 avail Mem 
+4566 galking 20 0 6597268 6.3g 3116 R 100.0 51.1 0:54.02 mem.bash
+ 4566 galking   20   0 6597268   6.3g   3116 R 100.0  51.1   0:54.02 mem.bash
+   83 galking   20   0  849436  18984  14680 S   6.7   0.1   0:01.17 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:01
+MiB Mem :  12608.5 total,   5744.7 free,   6802.8 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   5627.7 avail Mem 
+4566 galking 20 0 6755140 6.4g 3116 R 100.0 52.3 0:55.34 mem.bash
+ 4566 galking   20   0 6755140   6.4g   3116 R 100.0  52.3   0:55.34 mem.bash
+   45 root      20   0    1272     12      0 S   6.7   0.0   0:00.67 init
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:02
+MiB Mem :  12608.5 total,   5589.0 free,   6958.6 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   5471.9 avail Mem 
+4566 galking 20 0 6913276 6.6g 3116 R 100.0 53.5 0:56.65 mem.bash
+ 4566 galking   20   0 6913276   6.6g   3116 R 100.0  53.5   0:56.65 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:04
+MiB Mem :  12608.5 total,   5432.9 free,   7114.6 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   5315.9 avail Mem 
+4566 galking 20 0 7073656 6.7g 3116 R 100.0 54.7 0:57.97 mem.bash
+ 4566 galking   20   0 7073656   6.7g   3116 R 100.0  54.7   0:57.97 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:05
+MiB Mem :  12608.5 total,   5276.9 free,   7270.6 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   5159.8 avail Mem 
+4566 galking 20 0 7233376 6.9g 3116 R 100.0 56.0 0:59.28 mem.bash
+ 4566 galking   20   0 7233376   6.9g   3116 R 100.0  56.0   0:59.28 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:06
+MiB Mem :  12608.5 total,   5120.1 free,   7427.4 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   5003.0 avail Mem 
+4566 galking 20 0 7392700 7.0g 3116 R 100.0 57.2 1:00.59 mem.bash
+ 4566 galking   20   0 7392700   7.0g   3116 R 100.0  57.2   1:00.59 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:08
+MiB Mem :  12608.5 total,   4966.1 free,   7581.4 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   4849.0 avail Mem 
+4566 galking 20 0 7551892 7.2g 3116 R 100.0 58.5 1:01.91 mem.bash
+ 4566 galking   20   0 7551892   7.2g   3116 R 100.0  58.5   1:01.91 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:09
+MiB Mem :  12608.5 total,   4808.8 free,   7738.7 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   4691.8 avail Mem 
+4566 galking 20 0 7711876 7.3g 3116 R 100.0 59.7 1:03.22 mem.bash
+ 4566 galking   20   0 7711876   7.3g   3116 R 100.0  59.7   1:03.22 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:10
+MiB Mem :  12608.5 total,   4652.3 free,   7895.2 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   4535.3 avail Mem 
+4566 galking 20 0 7871464 7.5g 3116 R 93.8 60.9 1:04.54 mem.bash
+ 4566 galking   20   0 7871464   7.5g   3116 R  93.8  60.9   1:04.54 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:11
+MiB Mem :  12608.5 total,   4495.3 free,   8052.2 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   4378.2 avail Mem 
+4566 galking 20 0 8031976 7.7g 3116 R 100.0 62.2 1:05.85 mem.bash
+ 4566 galking   20   0 8031976   7.7g   3116 R 100.0  62.2   1:05.85 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:13
+MiB Mem :  12608.5 total,   4338.5 free,   8209.0 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   4221.5 avail Mem 
+4566 galking 20 0 8191564 7.8g 3116 R 100.0 63.4 1:07.17 mem.bash
+ 4566 galking   20   0 8191564   7.8g   3116 R 100.0  63.4   1:07.17 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:14
+MiB Mem :  12608.5 total,   4182.5 free,   8365.0 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   4065.4 avail Mem 
+4566 galking 20 0 8351812 8.0g 3116 R 100.0 64.6 1:08.48 mem.bash
+ 4566 galking   20   0 8351812   8.0g   3116 R 100.0  64.6   1:08.48 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:15
+MiB Mem :  12608.5 total,   4025.4 free,   8522.1 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   3908.4 avail Mem 
+4566 galking 20 0 8512060 8.1g 3116 R 100.0 65.9 1:09.80 mem.bash
+ 4566 galking   20   0 8512060   8.1g   3116 R 100.0  65.9   1:09.80 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:17
+MiB Mem :  12608.5 total,   3866.0 free,   8681.5 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   3748.9 avail Mem 
+4566 galking 20 0 8673232 8.3g 3116 R 100.0 67.1 1:11.11 mem.bash
+ 4566 galking   20   0 8673232   8.3g   3116 R 100.0  67.1   1:11.11 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:18
+MiB Mem :  12608.5 total,   3706.1 free,   8841.4 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   3589.1 avail Mem 
+4566 galking 20 0 8835328 8.4g 3116 R 100.0 68.4 1:12.42 mem.bash
+ 4566 galking   20   0 8835328   8.4g   3116 R 100.0  68.4   1:12.42 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:19
+MiB Mem :  12608.5 total,   3550.6 free,   8996.9 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   3433.5 avail Mem 
+4566 galking 20 0 8994124 8.6g 3116 R 100.0 69.6 1:13.74 mem.bash
+ 4566 galking   20   0 8994124   8.6g   3116 R 100.0  69.6   1:13.74 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:21
+MiB Mem :  12608.5 total,   3392.3 free,   9155.2 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   3275.3 avail Mem 
+4566 galking 20 0 9155032 8.7g 3116 R 100.0 70.9 1:15.05 mem.bash
+ 4566 galking   20   0 9155032   8.7g   3116 R 100.0  70.9   1:15.05 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:22
+MiB Mem :  12608.5 total,   3241.7 free,   9305.8 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   3124.7 avail Mem 
+4566 galking 20 0 9309736 8.9g 3116 R 100.0 72.1 1:16.37 mem.bash
+ 4566 galking   20   0 9309736   8.9g   3116 R 100.0  72.1   1:16.37 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:23
+MiB Mem :  12608.5 total,   3084.6 free,   9462.8 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   2967.6 avail Mem 
+4566 galking 20 0 9469588 9.0g 3116 R 100.0 73.3 1:17.68 mem.bash
+ 4566 galking   20   0 9469588   9.0g   3116 R 100.0  73.3   1:17.68 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:25
+MiB Mem :  12608.5 total,   2931.8 free,   9615.7 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   2814.8 avail Mem 
+4566 galking 20 0 9626536 9.2g 3116 R 100.0 74.5 1:19.00 mem.bash
+ 4566 galking   20   0 9626536   9.2g   3116 R 100.0  74.5   1:19.00 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:26
+MiB Mem :  12608.5 total,   2777.7 free,   9769.9 used,     60.9 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   2660.6 avail Mem 
+4566 galking 20 0 9784276 9.3g 3116 R 100.0 75.7 1:20.31 mem.bash
+ 4566 galking   20   0 9784276   9.3g   3116 R 100.0  75.7   1:20.31 mem.bash
+   24 galking   20   0  955288  33376  14560 S  13.3   0.3   0:06.68 node
+  993 galking   20   0  602148  22344  13780 S   6.7   0.2   0:01.21 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:27
+MiB Mem :  12608.5 total,   2635.8 free,   9911.7 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3955.3 free,    140.7 used.   2518.8 avail Mem 
+4566 galking 20 0 9929080 9.5g 3116 R 100.0 76.9 1:21.63 mem.bash
+ 4566 galking   20   0 9929080   9.5g   3116 R 100.0  76.9   1:21.63 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:29
+MiB Mem :  12608.5 total,   2495.0 free,  10052.5 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3956.6 free,    139.4 used.   2378.0 avail Mem 
+4566 galking 20 0 9836.5m 9.6g 3116 R 100.0 78.0 1:22.94 mem.bash
+ 4566 galking   20   0 9836.5m   9.6g   3116 R 100.0  78.0   1:22.94 mem.bash
+   96 galking   20   0  973660  41024  16472 S   6.7   0.3   0:09.93 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:30
+MiB Mem :  12608.5 total,   2352.1 free,  10195.4 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.1 free,    138.9 used.   2235.0 avail Mem 
+4566 galking 20 0 9978.4m 9.7g 3116 R 100.0 79.1 1:24.25 mem.bash
+ 4566 galking   20   0 9978.4m   9.7g   3116 R 100.0  79.1   1:24.25 mem.bash
+   46 galking   20   0  598052  17844  12460 S   6.7   0.1   0:02.43 node
+   96 galking   20   0  973660  41120  16472 S   6.7   0.3   0:10.02 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:31
+MiB Mem :  12608.5 total,   2208.4 free,  10339.1 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.   2091.3 avail Mem 
+4566 galking 20 0 9.9g 9.9g 3116 R 93.8 80.2 1:25.57 mem.bash
+ 4566 galking   20   0    9.9g   9.9g   3116 R  93.8  80.2   1:25.57 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:33
+MiB Mem :  12608.5 total,   2062.7 free,  10484.8 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.   1945.7 avail Mem 
+4566 galking 20 0 10.0g 10.0g 3116 R 100.0 81.4 1:26.88 mem.bash
+ 4566 galking   20   0   10.0g  10.0g   3116 R 100.0  81.4   1:26.88 mem.bash
+   96 galking   20   0  973660  40520  16472 S  13.3   0.3   0:10.08 node
+   45 root      20   0    1272     12      0 S   6.7   0.0   0:00.72 init
+   46 galking   20   0  598052  18096  12460 S   6.7   0.1   0:02.45 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+
+30.12.2023 12:27:34
+MiB Mem :  12608.5 total,   1917.1 free,  10630.4 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.   1800.0 avail Mem 
+4566 galking 20 0 10.2g 10.2g 3116 R 93.8 82.5 1:28.20 mem.bash
+ 4566 galking   20   0   10.2g  10.2g   3116 R  93.8  82.5   1:28.20 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:35
+MiB Mem :  12608.5 total,   1775.5 free,  10772.0 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.   1658.5 avail Mem 
+4566 galking 20 0 10.3g 10.3g 3116 R 100.0 83.7 1:29.51 mem.bash
+ 4566 galking   20   0   10.3g  10.3g   3116 R 100.0  83.7   1:29.51 mem.bash
+   96 galking   20   0  973660  41364  16472 S   6.7   0.3   0:10.13 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:36
+MiB Mem :  12608.5 total,   1626.9 free,  10920.6 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.   1509.8 avail Mem 
+4566 galking 20 0 10.5g 10.4g 3116 R 100.0 84.8 1:30.83 mem.bash
+ 4566 galking   20   0   10.5g  10.4g   3116 R 100.0  84.8   1:30.83 mem.bash
+   83 galking   20   0  849436  18604  14680 S   6.7   0.1   0:01.27 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:38
+MiB Mem :  12608.5 total,   1471.8 free,  11075.7 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.   1354.7 avail Mem 
+4566 galking 20 0 10.6g 10.6g 3116 R 100.0 86.1 1:32.14 mem.bash
+ 4566 galking   20   0   10.6g  10.6g   3116 R 100.0  86.1   1:32.14 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:39
+MiB Mem :  12608.5 total,   1327.9 free,  11219.6 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.   1210.8 avail Mem 
+4566 galking 20 0 10.7g 10.7g 3116 R 100.0 87.2 1:33.45 mem.bash
+ 4566 galking   20   0   10.7g  10.7g   3116 R 100.0  87.2   1:33.45 mem.bash
+   96 galking   20   0  973660  40520  16472 S   6.7   0.3   0:10.14 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:40
+MiB Mem :  12608.5 total,   1171.6 free,  11375.9 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.   1054.6 avail Mem 
+4566 galking 20 0 10.9g 10.9g 3116 R 100.0 88.4 1:34.77 mem.bash
+ 4566 galking   20   0   10.9g  10.9g   3116 R 100.0  88.4   1:34.77 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:42
+MiB Mem :  12608.5 total,   1016.6 free,  11530.9 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.    899.5 avail Mem 
+4566 galking 20 0 11.0g 11.0g 3116 R 100.0 89.7 1:36.08 mem.bash
+ 4566 galking   20   0   11.0g  11.0g   3116 R 100.0  89.7   1:36.08 mem.bash
+   96 galking   20   0  973660  40640  16472 S   6.7   0.3   0:10.15 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:43
+MiB Mem :  12608.5 total,    871.4 free,  11676.1 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.    754.3 avail Mem 
+4566 galking 20 0 11.2g 11.2g 3116 R 100.0 90.8 1:37.40 mem.bash
+ 4566 galking   20   0   11.2g  11.2g   3116 R 100.0  90.8   1:37.40 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:44
+MiB Mem :  12608.5 total,    717.5 free,  11829.9 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.    600.5 avail Mem 
+4566 galking 20 0 11.3g 11.3g 3116 R 100.0 92.0 1:38.71 mem.bash
+ 4566 galking   20   0   11.3g  11.3g   3116 R 100.0  92.0   1:38.71 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:46
+MiB Mem :  12608.5 total,    561.2 free,  11986.2 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.    444.2 avail Mem 
+4566 galking 20 0 11.5g 11.5g 3116 R 100.0 93.3 1:40.03 mem.bash
+ 4566 galking   20   0   11.5g  11.5g   3116 R 100.0  93.3   1:40.03 mem.bash
+   83 galking   20   0  849436  18868  14680 S   6.7   0.1   0:01.30 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:27:47
+MiB Mem :  12608.5 total,    406.4 free,  12141.1 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.    289.4 avail Mem 
+4566 galking 20 0 11.6g 11.6g 3116 R 100.0 94.5 1:41.34 mem.bash
+ 4566 galking   20   0   11.6g  11.6g   3116 R 100.0  94.5   1:41.34 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:48
+MiB Mem :  12608.5 total,    271.4 free,  12276.1 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.    154.3 avail Mem 
+4566 galking 20 0 11.8g 11.8g 3116 R 100.0 95.6 1:42.65 mem.bash
+ 4566 galking   20   0   11.8g  11.8g   3116 R 100.0  95.6   1:42.65 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:50
+MiB Mem :  12608.5 total,    142.0 free,  12405.4 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.     25.0 avail Mem 
+4566 galking 20 0 11.9g 11.9g 3116 R 13.3 96.6 1:43.84 mem.bash
+ 4566 galking   20   0   11.9g  11.9g   3116 R  13.3  96.6   1:43.84 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:51
+MiB Mem :  12608.5 total,    139.8 free,  12407.7 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.     22.8 avail Mem 
+4566 galking 20 0 11.9g 11.9g 3116 R 0.0 96.6 1:44.78 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+   15 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:52
+MiB Mem :  12608.5 total,    134.8 free,  12412.7 used,     61.0 buff/cache
+MiB Swap:   4096.0 total,   3957.6 free,    138.4 used.     17.8 avail Mem 
+4566 galking 20 0 11.9g 11.9g 3116 R 100.0 96.6 1:46.59 mem.bash
+ 4566 galking   20   0   11.9g  11.9g   3116 R 100.0  96.6   1:46.59 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:54
+MiB Mem :  12608.5 total,    156.4 free,  12423.5 used,     28.6 buff/cache
+MiB Swap:   4096.0 total,   3917.9 free,    178.1 used.     23.2 avail Mem 
+4566 galking 20 0 12.0g 12.0g 652 R 100.0 97.1 1:47.98 mem.bash
+ 4566 galking   20   0   12.0g  12.0g    652 R 100.0  97.1   1:47.98 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:55
+MiB Mem :  12608.5 total,    140.9 free,  12425.7 used,     41.9 buff/cache
+MiB Swap:   4096.0 total,   3775.4 free,    320.6 used.     14.3 avail Mem 
+4566 galking 20 0 12.1g 12.0g 996 R 100.0 97.1 1:49.31 mem.bash
+ 4566 galking   20   0   12.1g  12.0g    996 R 100.0  97.1   1:49.31 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:56
+MiB Mem :  12608.5 total,    131.8 free,  12435.1 used,     41.6 buff/cache
+MiB Swap:   4096.0 total,   3632.2 free,    463.8 used.      5.1 avail Mem 
+4566 galking 20 0 12.3g 12.0g 996 R 93.8 97.2 1:50.63 mem.bash
+ 4566 galking   20   0   12.3g  12.0g    996 R  93.8  97.2   1:50.63 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:58
+MiB Mem :  12608.5 total,    149.5 free,  12411.9 used,     47.1 buff/cache
+MiB Swap:   4096.0 total,   3407.8 free,    688.2 used.     25.4 avail Mem 
+4566 galking 20 0 12.4g 11.9g 996 R 100.0 96.6 1:51.95 mem.bash
+ 4566 galking   20   0   12.4g  11.9g    996 R 100.0  96.6   1:51.95 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:27:59
+MiB Mem :  12608.5 total,    139.9 free,  12421.4 used,     47.2 buff/cache
+MiB Swap:   4096.0 total,   3319.5 free,    776.5 used.     16.0 avail Mem 
+4566 galking 20 0 12.6g 12.0g 996 R 100.0 97.1 1:53.25 mem.bash
+ 4566 galking   20   0   12.6g  12.0g    996 R 100.0  97.1   1:53.25 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:00
+MiB Mem :  12608.5 total,    146.3 free,  12415.0 used,     47.2 buff/cache
+MiB Swap:   4096.0 total,   3179.4 free,    916.6 used.     22.4 avail Mem 
+4566 galking 20 0 12.7g 11.9g 996 R 100.0 97.0 1:54.57 mem.bash
+ 4566 galking   20   0   12.7g  11.9g    996 R 100.0  97.0   1:54.57 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:02
+MiB Mem :  12608.5 total,    138.9 free,  12421.6 used,     48.0 buff/cache
+MiB Swap:   4096.0 total,   3045.3 free,   1050.7 used.     15.4 avail Mem 
+4566 galking 20 0 12.8g 11.9g 996 R 100.0 97.0 1:55.88 mem.bash
+ 4566 galking   20   0   12.8g  11.9g    996 R 100.0  97.0   1:55.88 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:03
+MiB Mem :  12608.5 total,    143.1 free,  12417.8 used,     47.6 buff/cache
+MiB Swap:   4096.0 total,   2910.6 free,   1185.4 used.     19.4 avail Mem 
+4566 galking 20 0 13.0g 11.9g 996 R 100.0 97.0 1:57.20 mem.bash
+ 4566 galking   20   0   13.0g  11.9g    996 R 100.0  97.0   1:57.20 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:04
+MiB Mem :  12608.5 total,    150.8 free,  12410.3 used,     47.4 buff/cache
+MiB Swap:   4096.0 total,   2774.2 free,   1321.8 used.     27.0 avail Mem 
+4566 galking 20 0 13.1g 11.9g 996 R 100.0 96.9 1:58.52 mem.bash
+ 4566 galking   20   0   13.1g  11.9g    996 R 100.0  96.9   1:58.52 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:05
+MiB Mem :  12608.5 total,    141.7 free,  12419.5 used,     47.3 buff/cache
+MiB Swap:   4096.0 total,   2665.2 free,   1430.8 used.     17.8 avail Mem 
+4566 galking 20 0 13.2g 11.9g 996 R 93.8 97.0 1:59.84 mem.bash
+ 4566 galking   20   0   13.2g  11.9g    996 R  93.8  97.0   1:59.84 mem.bash
+   96 galking   20   0  973660  27288   8360 S   6.2   0.2   0:10.29 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:28:07
+MiB Mem :  12608.5 total,    135.3 free,  12426.1 used,     47.1 buff/cache
+MiB Swap:   4096.0 total,   2544.4 free,   1551.6 used.     11.3 avail Mem 
+4566 galking 20 0 13.3g 12.0g 996 R 100.0 97.1 2:01.15 mem.bash
+ 4566 galking   20   0   13.3g  12.0g    996 R 100.0  97.1   2:01.15 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:08
+MiB Mem :  12608.5 total,    150.3 free,  12411.5 used,     46.7 buff/cache
+MiB Swap:   4096.0 total,   2394.6 free,   1701.4 used.     26.1 avail Mem 
+4566 galking 20 0 13.5g 11.9g 996 R 100.0 97.0 2:02.47 mem.bash
+ 4566 galking   20   0   13.5g  11.9g    996 R 100.0  97.0   2:02.47 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:09
+MiB Mem :  12608.5 total,    146.0 free,  12415.8 used,     46.7 buff/cache
+MiB Swap:   4096.0 total,   2275.1 free,   1820.9 used.     21.8 avail Mem 
+4566 galking 20 0 13.6g 11.9g 996 R 100.0 97.0 2:03.78 mem.bash
+ 4566 galking   20   0   13.6g  11.9g    996 R 100.0  97.0   2:03.78 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:11
+MiB Mem :  12608.5 total,    142.9 free,  12418.8 used,     46.7 buff/cache
+MiB Swap:   4096.0 total,   2153.6 free,   1942.4 used.     18.7 avail Mem 
+4566 galking 20 0 13.7g 11.9g 996 R 100.0 97.0 2:05.10 mem.bash
+ 4566 galking   20   0   13.7g  11.9g    996 R 100.0  97.0   2:05.10 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:12
+MiB Mem :  12608.5 total,    142.2 free,  12419.5 used,     46.8 buff/cache
+MiB Swap:   4096.0 total,   2012.1 free,   2083.9 used.     18.0 avail Mem 
+4566 galking 20 0 13.8g 11.9g 996 R 100.0 97.0 2:06.41 mem.bash
+ 4566 galking   20   0   13.8g  11.9g    996 R 100.0  97.0   2:06.41 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:13
+MiB Mem :  12608.5 total,    149.5 free,  12412.2 used,     46.8 buff/cache
+MiB Swap:   4096.0 total,   1862.7 free,   2233.3 used.     25.3 avail Mem 
+4566 galking 20 0 14.0g 11.9g 996 R 100.0 96.9 2:07.73 mem.bash
+ 4566 galking   20   0   14.0g  11.9g    996 R 100.0  96.9   2:07.73 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:15
+MiB Mem :  12608.5 total,    142.5 free,  12419.3 used,     46.7 buff/cache
+MiB Swap:   4096.0 total,   1729.7 free,   2366.3 used.     18.2 avail Mem 
+4566 galking 20 0 14.1g 11.9g 996 R 100.0 97.0 2:09.05 mem.bash
+ 4566 galking   20   0   14.1g  11.9g    996 R 100.0  97.0   2:09.05 mem.bash
+   24 galking   20   0  955544  23980  11656 S   6.7   0.2   0:07.00 node
+  993 galking   20   0  602148   7648   1980 S   6.7   0.1   0:01.32 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:28:16
+MiB Mem :  12608.5 total,    147.4 free,  12414.2 used,     46.8 buff/cache
+MiB Swap:   4096.0 total,   1588.5 free,   2507.5 used.     23.3 avail Mem 
+4566 galking 20 0 14.3g 11.9g 996 R 100.0 96.9 2:10.37 mem.bash
+ 4566 galking   20   0   14.3g  11.9g    996 R 100.0  96.9   2:10.37 mem.bash
+   24 galking   20   0  955544  24232  11656 S   6.7   0.2   0:07.01 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:28:17
+MiB Mem :  12608.5 total,    140.2 free,  12421.4 used,     46.9 buff/cache
+MiB Swap:   4096.0 total,   1447.6 free,   2648.4 used.     16.1 avail Mem 
+4566 galking 20 0 14.4g 11.9g 996 R 100.0 97.0 2:11.68 mem.bash
+ 4566 galking   20   0   14.4g  11.9g    996 R 100.0  97.0   2:11.68 mem.bash
+   46 galking   20   0  598052   4808   1464 S   6.7   0.0   0:02.55 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
+30.12.2023 12:28:19
+MiB Mem :  12608.5 total,    145.5 free,  12416.2 used,     46.8 buff/cache
+MiB Swap:   4096.0 total,   1297.6 free,   2798.4 used.     21.4 avail Mem 
+4566 galking 20 0 14.5g 11.9g 996 R 100.0 96.9 2:12.99 mem.bash
+ 4566 galking   20   0   14.5g  11.9g    996 R 100.0  96.9   2:12.99 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:20
+MiB Mem :  12608.5 total,    149.6 free,  12412.2 used,     46.7 buff/cache
+MiB Swap:   4096.0 total,   1157.5 free,   2938.5 used.     25.4 avail Mem 
+4566 galking 20 0 14.7g 11.9g 996 R 100.0 96.9 2:14.31 mem.bash
+ 4566 galking   20   0   14.7g  11.9g    996 R 100.0  96.9   2:14.31 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:21
+MiB Mem :  12608.5 total,    151.3 free,  12410.4 used,     46.8 buff/cache
+MiB Swap:   4096.0 total,   1007.9 free,   3088.1 used.     27.1 avail Mem 
+4566 galking 20 0 14.8g 11.9g 996 R 100.0 96.9 2:15.63 mem.bash
+ 4566 galking   20   0   14.8g  11.9g    996 R 100.0  96.9   2:15.63 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:23
+MiB Mem :  12608.5 total,    151.1 free,  12411.0 used,     46.5 buff/cache
+MiB Swap:   4096.0 total,    857.7 free,   3238.3 used.     26.8 avail Mem 
+4566 galking 20 0 15.0g 11.9g 996 R 100.0 96.9 2:16.94 mem.bash
+ 4566 galking   20   0   15.0g  11.9g    996 R 100.0  96.9   2:16.94 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:24
+MiB Mem :  12608.5 total,    147.9 free,  12414.1 used,     46.5 buff/cache
+MiB Swap:   4096.0 total,    712.9 free,   3383.1 used.     23.6 avail Mem 
+4566 galking 20 0 15.1g 11.9g 996 R 100.0 96.9 2:18.26 mem.bash
+ 4566 galking   20   0   15.1g  11.9g    996 R 100.0  96.9   2:18.26 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:25
+MiB Mem :  12608.5 total,    138.9 free,  12423.0 used,     46.5 buff/cache
+MiB Swap:   4096.0 total,    571.8 free,   3524.2 used.     14.8 avail Mem 
+4566 galking 20 0 15.3g 11.9g 996 R 100.0 97.0 2:19.58 mem.bash
+ 4566 galking   20   0   15.3g  11.9g    996 R 100.0  97.0   2:19.58 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:27
+MiB Mem :  12608.5 total,    145.2 free,  12416.6 used,     46.7 buff/cache
+MiB Swap:   4096.0 total,    414.4 free,   3681.6 used.     21.0 avail Mem 
+4566 galking 20 0 15.4g 11.9g 996 R 100.0 96.9 2:20.89 mem.bash
+ 4566 galking   20   0   15.4g  11.9g    996 R 100.0  96.9   2:20.89 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:28
+MiB Mem :  12608.5 total,    148.8 free,  12412.9 used,     46.8 buff/cache
+MiB Swap:   4096.0 total,    263.7 free,   3832.3 used.     24.6 avail Mem 
+4566 galking 20 0 15.5g 11.9g 996 R 100.0 96.9 2:22.20 mem.bash
+ 4566 galking   20   0   15.5g  11.9g    996 R 100.0  96.9   2:22.20 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:29
+MiB Mem :  12608.5 total,    142.9 free,  12419.3 used,     46.3 buff/cache
+MiB Swap:   4096.0 total,    117.0 free,   3979.0 used.     18.6 avail Mem 
+4566 galking 20 0 15.7g 11.9g 996 R 100.0 96.9 2:23.53 mem.bash
+ 4566 galking   20   0   15.7g  11.9g    996 R 100.0  96.9   2:23.53 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:31
+MiB Mem :  12608.5 total,    139.3 free,  12423.1 used,     46.1 buff/cache
+MiB Swap:   4096.0 total,      0.0 free,   4096.0 used.     14.8 avail Mem 
+4566 galking 20 0 15.8g 11.9g 996 R 100.0 97.0 2:24.83 mem.bash
+ 4566 galking   20   0   15.8g  11.9g    996 R 100.0  97.0   2:24.83 mem.bash
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+   14 galking   20   0    2612      0      0 S   0.0   0.0   0:00.00 sh
+
+30.12.2023 12:28:33
+MiB Mem :  12608.5 total,   1202.0 free,  11355.5 used,     50.9 buff/cache
+MiB Swap:   4096.0 total,   3958.3 free,    137.7 used.   1079.9 avail Mem 
+4566 galking 20 0 0 0 0 R 100.0 0.0 2:25.92 mem.bash
+ 4566 galking   20   0       0      0      0 R 100.0   0.0   2:25.92 mem.bash
+   96 galking   20   0  973660  32036  13580 S  13.3   0.2   0:10.51 node
+    1 root      20   0     916      0      0 S   0.0   0.0   0:00.03 init
+   12 root      20   0    1264      4      0 S   0.0   0.0   0:00.00 init
+   13 root      20   0    1272      0      0 S   0.0   0.0   0:00.00 init
+
