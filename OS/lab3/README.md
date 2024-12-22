@@ -1,1 +1,2 @@
-Directory for Lab #3
+# Лабораторная работа №3. Управление процессами в ОС Linux
+![Текст задания](/OS/tasks_pictures/task3.JPG)

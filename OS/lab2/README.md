@@ -1,1 +1,2 @@
-Directory for Lab #2
+# Лабораторная работа №2. Мониторинг процессов и ресурсов в ОС Linux
+![Текст задания](/OS/tasks_pictures/task2.JPG)
