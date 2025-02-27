@@ -1,5 +1,5 @@
 <h1>Задачи с Codeforces</h1>
-<p><a href=""><b>Условия</b></a></p>
+<p><a href="problems.pdf"><b>Условия</b></a></p>
 <p>
   <b>Решения:</b>
   <ul>
